@@ -8,9 +8,7 @@ class Prop extends Component {
     return (
       <div>
         <ul style={{ textAlign: "left" }}>
-          <li>
-            Name: {Name} <i class="far fa-trash-alt" />
-          </li>
+          <li>Name: {Name}</li>
           <li>Department: {Department}</li>
           <li>Company: {Company}</li>
         </ul>
