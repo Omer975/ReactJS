@@ -1,3 +1,4 @@
+//class based component
 import React, { Component } from "react";
 
 class User extends Component {
